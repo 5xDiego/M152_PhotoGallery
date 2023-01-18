@@ -83,7 +83,7 @@ export function Fotogalerie() {
           <h2> Fotogalerie </h2>
           <p>
             Für meine Fotogalerie habe ich mich dazu entschieden, eine
-            Zusammenstellung der besten Bilder von Onyx, den Hund meiner
+            Zusammenstellung der besten Bilder von Onyx, der Hund meiner
             Freundin, zu nutzen.
           </p>
           <p>
