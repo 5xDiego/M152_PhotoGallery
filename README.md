@@ -25,7 +25,8 @@ Das Video habe ich in Zusammenarbeit mit Leandro Ferrer erstellt.
 Für die Fotogallerie habe ich mich entschieden, Bilder von 'Onyx', der Hund meiner Freundin, zu nutzen. 
 
 #### Benutzte Tools
-> react-lightbox-gallery  (plugin)
+> react-lightbox-gallery  (plugin) <br/>
+> MIT © alvinzach
 
 ## Animation 🌳
 Bei der Animation geht
